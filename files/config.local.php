@@ -218,8 +218,8 @@
     'scherer8-eg-nw',
     'scherer8-eg-o',
     'basta',
-    'Scherer8-Dach-Ost',
     'Scherer8-Perleberger36',
+    'Scherer8-Beuth',
   );
 
   $CONFIG['cat']['Scharni'] = array(
@@ -230,4 +230,53 @@
     'scharni-ap3'
   );
 
+  $CONFIG['cat']['Beuth Hochschule'] = array(
+    'beuth0',
+    'beuth0-chris',
+    'beuth0-fa-reinickendorf',
+    'beuth0-jup',
+    'beuth0-nord'
+    'beuth0-ost',
+    'beuth0-perleberger36',
+    'beuth0-scherer8',
+    'beuth0-segen',
+    'beuth0-sued',
+    'beuth0-west',
+  );
+
+  $CONFIG['cat']['Perleberger36'] = array(
+    'perleberger36',
+    'perleberger36-hof-2ghz-n',
+    'perleberger36-hof-2ghz-s',
+    'perleberger36-turm-2ghz-no',
+    'perleberger36-turm-2ghz-nw',
+    'perleberger36-turm-2ghz-o',
+    'perleberger36-turm-2ghz-so',
+    'perleberger36-turm-2ghz-sw',
+  );
+
+  $CONFIG['cat']['Finanzamt Reinickendorf'] = array(
+    'fardf',
+    'fardf-beuth',
+    'fardf-maerkisches',
+    'fardf-nord',
+    'fardf-oranienburger',
+    'fardf-ost',
+    'fardf-sange',
+    'fardf-sued',
+    'fardf-west',
+  );
+
+  $CONFIG['cat']['Kosmos Viertel'] = array(
+    'kosmos-medienetage',
+    'kosmos-ortolf202-ost',
+    'kosmos-ortolf206-west',
+    'kosmos-schoenchau183-ost',
+    'kosmos-wama',
+    'kosmos-wama-back-l',
+    'kosmos-wama-cafe-l',
+    'kosmos-wama-cafe-r',
+    'kosmos-wama-front-l',
+    'kosmos-wama-front-r',
+  );
 ?>
